@@ -1,0 +1,42 @@
+div projects {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  height: 50vh;}
+
+img {
+  height: 200px;
+  margin: 16px;
+  border: 1px solid black;
+}
+
+.img {height: 110px; margin: 17px; border: 2px; solidblack;}
+body{background-image: url(https://img.freepik.com/free-vector/cute-colorful-kitten-pow-pattern-design_1017-14710.jpg?size=338&ext=jpg);}
+
+
+div
+.body=
+.container {padding-top: 32px; display: repeat; flex-wrap: wrap;}
+.flexer {width: 150px; height: 145px; background-color: yellow; border-radius: 115px;}
+.container {
+  display: flex;
+  flex-direction: repeat;
+  justify-content: repeat;
+  align-items: center;
+}
+
+div
+button {padding: 16px;
+display: block;
+margin: 50px auto;}
+
+button:active + div {
+  position: fixed;
+
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background-image: url(https://vignette.wikia.nocookie.net/howtotrainyourdragon/images/3/3b/Hiccup_and_Toothless_Flying.gif/revision/latest?cb=20170129223742); background-size: cover;
+  background-position: center;}
